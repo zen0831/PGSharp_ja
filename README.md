@@ -87,8 +87,8 @@ PGSharp ロゴの下のドロップダウン メニューから希望のアイ�
 5 – タップしてお気に入りセクションを開きます  
 6 – タップして GPX ファイルをインポートします  
 7 – タップして画面の中心に位置を表示します  
-8 – タップして 2 番目のポイントを追加し、カスタムルートを作成します 9  
-– タップして位置をお気に入りに追加します  
+8 – タップして 2 番目のポイントを追加し、カスタムルートを作成します
+9 – タップして位置をお気に入りに追加します  
 10 – ジムの空き/占有スロットを表示します  
 11 – タップしてレイドを直接表示します
 
@@ -183,61 +183,61 @@ PGSharp ロゴの下のドロップダウン メニューから希望のアイ�
 
 ##### キャッチ時に転送
 
-Automatically transfers all Pokémon that do not fall into the options you select  
-(does not transfer raid Pokémon, Pokémon from quests, eggs or shadow Pokémon from rocket grunts/leaders).
+選択したオプションに当てはまらないすべてのポケモンを自動的に転送します
+(レイドポケモン、クエストからのポケモン、ロケットのしっぽ/リーダーからのタマゴやシャドウポケモンは転送されません)。
 
 ![](img/transfer-on-catch.png)
 
-##### Virtual Go Plus (VGP)
+##### バーチャルゴープラス(VGP)
 
-A virtual helper that will automatically try to catch Pokémon and spin stops for you.   
-**Push Notifications** – Sends notifications to your phone.  
-**Nearby Pokémon** – Turn this on if you want the VGP to attempt to catch nearby Pokémon (if you have the storage space and red Pokéballs).  
-**Nearby PokéStop** – Turn this on if you want the VGP to spin Pokétops near your avatar (as long as you have room in your bag).
+自動的にポケモンを捕まえようとし、スピンが停止する仮想ヘルパー。 
+プッシュ通知– 携帯電話に通知を送信します。
+近くのポケモン– VGP が近くのポケモンを捕まえようとする場合は、これをオンにします (保管スペースと赤いモンスターボールがある場合)。
+近くのポケストップ– VGP がアバターの近くでポケトップを回転させたい場合は、これをオンにします (バッグにスペースがある限り)。
 
 ![](img/virtual-goplus.png)
 
-##### Instant Beat Team Rocket
+##### インスタントビートロケット団
 
-Allows you to defeat all Team Rocket members, bosses (Arlo, Cliff, and Sierra), and Giovanni in seconds, without ever having to fight them. The first Pokémon you choose to battle only loses one HP per battle.
+ロケット団のメンバー全員、ボス (アーロ、クリフ、シエラ)、ジョバンニと戦うことなく、数秒で倒すことができます。あなたが最初に戦うことを選んだポケモンは、戦闘ごとに HP を 1 つだけ失います。
 
 ![](img/instant-beat-team-rocket.png)
 
-##### Raid & Gym Battle Assistant
+##### レイド＆ジムバトルアシスタント
 
-Auto taps, dodges, and charge attacks during Raids and Gym Battles.
+レイドバトルやジムバトル中に自動タップ、回避、チャージ攻撃を行います。
 
-![]img/raid-gym-battle-assistant.png)
+![](img/raid-gym-battle-assistant.png)
 
-##### Gift Assistant
+##### ギフトアシスタント
 
-Skips the animation of the opening and the sending of gifts. Opening the gift is done instantly as soon as you click on the gift, and sending it to your friend is done by tapping on the gift icon. Check the Sticker option if you would like stickers to be added to your gifts.
+開封とギフトの送信のアニメーションをスキップします。ギフトをクリックするとギフトの開封がすぐに行われ、ギフトのアイコンをタップすると友人への送信が完了します。ギフトにステッカーを追加したい場合は、ステッカーオプションをチェックしてください。
 
 ![](img/gift-assistant.png)
 
-##### Buddy Assistant
+##### バディアシスタント
 
-Automatically play, take a snapshot, feed and open any gifts your buddy brings you. You can choose what berries/poffin it will feed your buddy by selecting the option.  
-Please note that it will choose whatever option comes first in the list (list starts at poffin). If you have a berry/poffin selected that you do not have any of, it will pick the next berry that comes after what you have selected.
+友達が持ってきたギフトを自動的に再生、スナップショットを撮り、フィードし、開封します。オプションを選択すると、相棒にどのベリー/ポフィンを与えるかを選択できます。
+リストの最初にあるオプションが選択されることに注意してください (リストは poffin で始まります)。ベリー/ポフィンを選択していて、どれも持っていない場合は、選択したベリーの後に来る次のベリーが選択されます。
 
 ![](img/buddy-assistant.png)
 
-##### Quest Assistant
+##### クエストアシスタント
 
-Will automatically complete any snapshot quests you receive.  
-Example: “take snapshots of 5 different water species”, “take a snapshot of a wild Pokémon”, etc.
+受信したスナップショット クエストは自動的に完了します。
+例: 「5 つの異なる水種のスナップショットを撮る」、「野生のポケモンのスナップショットを撮る」など。
 
 ![](img/quest-assistant.png)
 
-##### Pokémon Name Generator
+##### ポケモン名ジェネレーター
 
-Renames all non-manually named Pokémon depending on what options you select. (Note: only you can see the name change)
+選択したオプションに応じて、手動以外で名前を付けたすべてのポケモンの名前を変更します。(注: 名前の変更は自分だけが見ることができます)
 
 ![](img/pokemon-name-generator.png)
 
-##### PvP Rank
+##### PvPランク
 
-エンカウンター/インベントリー IV のレベルとリーグに基づいた PvP ランキングを表示します。PVP ランクまたは Google の詳細については、[ここをクリック](https://www.pgsharp.com/pvp-rank/)  
+エンカウンター/インベントリー IV のレベルとリーグに基づいた PvP ランキングを表示します。PVP ランクまたは Google の詳細については、ここをクリック
 してください。[](https://www.pgsharp.com/pvp-rank/)
 
 ![](img/pvp-rank.png)
